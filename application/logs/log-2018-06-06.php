@@ -1,0 +1,54 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2018-06-06 04:21:14 --> 404 Page Not Found: adminpanel/Manage/css
+ERROR - 2018-06-06 04:21:15 --> 404 Page Not Found: adminpanel/Manage/scripts
+ERROR - 2018-06-06 04:21:15 --> 404 Page Not Found: adminpanel/Manage/css
+ERROR - 2018-06-06 04:21:16 --> 404 Page Not Found: adminpanel/Manage/scripts
+ERROR - 2018-06-06 04:21:16 --> 404 Page Not Found: adminpanel/Manage/css
+ERROR - 2018-06-06 04:21:16 --> 404 Page Not Found: adminpanel/Manage/scripts
+ERROR - 2018-06-06 04:21:17 --> 404 Page Not Found: adminpanel/Manage/css
+ERROR - 2018-06-06 04:21:17 --> 404 Page Not Found: adminpanel/Manage/scripts
+ERROR - 2018-06-06 04:21:18 --> 404 Page Not Found: adminpanel/Manage/css
+ERROR - 2018-06-06 04:21:18 --> 404 Page Not Found: adminpanel/Manage/scripts
+ERROR - 2018-06-06 04:21:19 --> 404 Page Not Found: adminpanel/Manage/css
+ERROR - 2018-06-06 04:21:19 --> 404 Page Not Found: adminpanel/Manage/scripts
+ERROR - 2018-06-06 04:21:19 --> 404 Page Not Found: adminpanel/Manage/css
+ERROR - 2018-06-06 04:21:19 --> 404 Page Not Found: adminpanel/Manage/scripts
+ERROR - 2018-06-06 04:21:20 --> 404 Page Not Found: adminpanel/Manage/css
+ERROR - 2018-06-06 04:21:20 --> 404 Page Not Found: adminpanel/Manage/scripts
+ERROR - 2018-06-06 04:21:21 --> 404 Page Not Found: adminpanel/Manage/css
+ERROR - 2018-06-06 04:21:21 --> 404 Page Not Found: adminpanel/Manage/scripts
+ERROR - 2018-06-06 04:21:22 --> 404 Page Not Found: adminpanel/Manage/css
+ERROR - 2018-06-06 04:21:22 --> 404 Page Not Found: adminpanel/Manage/scripts
+ERROR - 2018-06-06 04:21:23 --> 404 Page Not Found: adminpanel/Manage/css
+ERROR - 2018-06-06 04:21:23 --> 404 Page Not Found: adminpanel/Manage/scripts
+ERROR - 2018-06-06 04:21:23 --> 404 Page Not Found: adminpanel/Manage/css
+ERROR - 2018-06-06 04:21:24 --> 404 Page Not Found: adminpanel/Manage/scripts
+ERROR - 2018-06-06 04:21:24 --> 404 Page Not Found: adminpanel/Manage/css
+ERROR - 2018-06-06 04:21:25 --> 404 Page Not Found: adminpanel/Manage/scripts
+ERROR - 2018-06-06 04:21:25 --> 404 Page Not Found: adminpanel/Manage/css
+ERROR - 2018-06-06 04:21:26 --> 404 Page Not Found: adminpanel/Manage/scripts
+ERROR - 2018-06-06 04:21:26 --> 404 Page Not Found: adminpanel/Manage/css
+ERROR - 2018-06-06 04:21:27 --> 404 Page Not Found: adminpanel/Manage/scripts
+ERROR - 2018-06-06 04:21:27 --> 404 Page Not Found: adminpanel/Manage/css
+ERROR - 2018-06-06 04:21:28 --> 404 Page Not Found: adminpanel/Manage/scripts
+ERROR - 2018-06-06 04:21:28 --> 404 Page Not Found: adminpanel/Manage/css
+ERROR - 2018-06-06 04:21:29 --> 404 Page Not Found: adminpanel/Manage/scripts
+ERROR - 2018-06-06 04:21:29 --> 404 Page Not Found: adminpanel/Manage/css
+ERROR - 2018-06-06 04:21:30 --> 404 Page Not Found: adminpanel/Manage/scripts
+ERROR - 2018-06-06 04:29:09 --> 404 Page Not Found: Adminpanelcss/adminpanel
+ERROR - 2018-06-06 04:29:09 --> 404 Page Not Found: Adminpanelscripts/common.js
+ERROR - 2018-06-06 04:29:10 --> 404 Page Not Found: Adminpanelcss/adminpanel
+ERROR - 2018-06-06 04:29:10 --> 404 Page Not Found: Adminpanelscripts/common.js
+ERROR - 2018-06-06 04:29:10 --> 404 Page Not Found: Adminpanelcss/adminpanel
+ERROR - 2018-06-06 04:29:11 --> 404 Page Not Found: Adminpanelscripts/common.js
+ERROR - 2018-06-06 04:29:11 --> 404 Page Not Found: Adminpanelcss/adminpanel
+ERROR - 2018-06-06 04:29:11 --> 404 Page Not Found: Adminpanelscripts/common.js
+ERROR - 2018-06-06 04:29:12 --> 404 Page Not Found: Adminpanelcss/adminpanel
+ERROR - 2018-06-06 04:29:12 --> 404 Page Not Found: Adminpanelscripts/common.js
+ERROR - 2018-06-06 04:29:13 --> 404 Page Not Found: Adminpanelcss/adminpanel
+ERROR - 2018-06-06 04:29:14 --> 404 Page Not Found: Adminpanelscripts/common.js
+ERROR - 2018-06-06 04:29:14 --> 404 Page Not Found: Adminpanelcss/adminpanel
+ERROR - 2018-06-06 04:29:15 --> 404 Page Not Found: Adminpanelscripts/common.js
+ERROR - 2018-06-06 07:34:59 --> Severity: error --> Exception: [] operator not supported for strings /Applications/MAMP/htdocs/ACI-master/application/controllers/adminpanel/ModuleMenu.php 224
+ERROR - 2018-06-06 07:42:27 --> Severity: error --> Exception: [] operator not supported for strings /Applications/MAMP/htdocs/ACI-master/application/controllers/adminpanel/ModuleMenu.php 224
